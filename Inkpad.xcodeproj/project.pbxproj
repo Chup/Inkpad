@@ -353,6 +353,7 @@
 		6BF747931311C399000D9344 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6BF747921311C399000D9344 /* Entitlements.plist */; };
 		6BFA802C1249CEDB00D1749C /* WDLayerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFA802B1249CEDB00D1749C /* WDLayerCell.m */; };
 		6BFBC4EB1335F4A000D5877F /* zoom_to_fit.png in Resources */ = {isa = PBXBuildFile; fileRef = 6BFBC4EA1335F4A000D5877F /* zoom_to_fit.png */; };
+		CF803ACE1BC52A93005D702F /* da.lproj in Resources */ = {isa = PBXBuildFile; fileRef = CF803ACD1BC52A93005D702F /* da.lproj */; settings = {ASSET_TAGS = (); }; };
 		F43A1D76183557770032933E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = F43A1D6E183557770032933E /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
@@ -884,6 +885,12 @@
 		AE661E2318D6843D0096EAF3 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/OpenClipArt.strings"; sourceTree = "<group>"; };
 		AE661E2418D6844B0096EAF3 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Shadow.strings"; sourceTree = "<group>"; };
 		AE661E2518D684560096EAF3 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Stroke.strings"; sourceTree = "<group>"; };
+		CF803AC81BC52A83005D702F /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/ColorBalance.strings; sourceTree = "<group>"; };
+		CF803AC91BC52A83005D702F /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/HueSaturation.strings; sourceTree = "<group>"; };
+		CF803ACA1BC52A83005D702F /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/OpenClipArt.strings; sourceTree = "<group>"; };
+		CF803ACB1BC52A83005D702F /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Shadow.strings; sourceTree = "<group>"; };
+		CF803ACC1BC52A83005D702F /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Stroke.strings; sourceTree = "<group>"; };
+		CF803ACD1BC52A93005D702F /* da.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = da.lproj; sourceTree = "<group>"; };
 		F43A1D6F183557770032933E /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = Localizable.strings; sourceTree = "<group>"; };
 		F4F41F7118B2C7E300065865 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = OpenClipArt.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -972,6 +979,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				CF803ACD1BC52A93005D702F /* da.lproj */,
 				6B83972418A41125001D5985 /* de.lproj */,
 				6B8F091517FCE1DB00BB6F7E /* en.lproj */,
 				6BC96745183149E300F46191 /* es.lproj */,
@@ -1892,6 +1900,7 @@
 				6B95E165125EFA5F00E54B56 /* slider_border.png in Resources */,
 				6B53353E1803538D00D46D5B /* ColorBalance.xib in Resources */,
 				6BF0C5681262598A009BB05C /* radial.png in Resources */,
+				CF803ACE1BC52A93005D702F /* da.lproj in Resources */,
 				6BF0C57D12625C4D009BB05C /* linear.png in Resources */,
 				6B51BCBE12651C1C000F6BF3 /* swatches.png in Resources */,
 				6B48E9D9126BE2B4002D3B85 /* isolate.png in Resources */,
@@ -2286,6 +2295,7 @@
 				6B95752F183C536E0094B7D5 /* fr */,
 				6B957530183C53710094B7D5 /* tr */,
 				AE661E2118D684040096EAF3 /* zh-Hans */,
+				CF803AC81BC52A83005D702F /* da */,
 			);
 			name = ColorBalance.xib;
 			sourceTree = "<group>";
@@ -2324,6 +2334,7 @@
 				6B957532183C53A00094B7D5 /* fr */,
 				6B957533183C53A30094B7D5 /* tr */,
 				AE661E2218D684240096EAF3 /* zh-Hans */,
+				CF803AC91BC52A83005D702F /* da */,
 			);
 			name = HueSaturation.xib;
 			sourceTree = "<group>";
@@ -2370,6 +2381,7 @@
 				6B957535183C53AF0094B7D5 /* fr */,
 				6B957536183C53B10094B7D5 /* tr */,
 				AE661E2418D6844B0096EAF3 /* zh-Hans */,
+				CF803ACB1BC52A83005D702F /* da */,
 			);
 			name = Shadow.xib;
 			sourceTree = "<group>";
@@ -2392,6 +2404,7 @@
 				6B957538183C53BD0094B7D5 /* fr */,
 				6B957539183C53BF0094B7D5 /* tr */,
 				AE661E2518D684560096EAF3 /* zh-Hans */,
+				CF803ACC1BC52A83005D702F /* da */,
 			);
 			name = Stroke.xib;
 			sourceTree = "<group>";
@@ -2418,6 +2431,7 @@
 				6B8396E1189F2FB0001D5985 /* Base */,
 				6B83971318A36D23001D5985 /* en */,
 				AE661E2318D6843D0096EAF3 /* zh-Hans */,
+				CF803ACA1BC52A83005D702F /* da */,
 			);
 			name = OpenClipArt.xib;
 			sourceTree = "<group>";

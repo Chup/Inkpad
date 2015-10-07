@@ -1,0 +1,12 @@
+
+/* Class = "UISearchBar"; placeholder = "Search Openclipart"; ObjectID = "RRV-qS-tbK"; */
+"RRV-qS-tbK.placeholder" = "Search Openclipart";
+
+/* Class = "UISearchBar"; RRV-qS-tbK.scopeButtonTitles[0] = "Top Downloads"; ObjectID = "RRV-qS-tbK"; */
+"RRV-qS-tbK.scopeButtonTitles[0]" = "Top Downloads";
+
+/* Class = "UISearchBar"; RRV-qS-tbK.scopeButtonTitles[1] = "Top Favorites"; ObjectID = "RRV-qS-tbK"; */
+"RRV-qS-tbK.scopeButtonTitles[1]" = "Top Favoritter";
+
+/* Class = "UISearchBar"; RRV-qS-tbK.scopeButtonTitles[2] = "Newest"; ObjectID = "RRV-qS-tbK"; */
+"RRV-qS-tbK.scopeButtonTitles[2]" = "Nyeste";

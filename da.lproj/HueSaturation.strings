@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Hue"; ObjectID = "29"; */
+"29.text" = "Farvetone";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "30"; */
+"30.text" = "0";
+
+/* Class = "UILabel"; text = "Saturation"; ObjectID = "31"; */
+"31.text" = "Farvemætning";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "32"; */
+"32.text" = "0";
+
+/* Class = "UILabel"; text = "Brightness"; ObjectID = "34"; */
+"34.text" = "Lysstyrke";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "35"; */
+"35.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Hue and Saturation"; ObjectID = "54"; */
+"54.title" = "Farvetone og Farvemætning";
+
+/* Class = "UIBarButtonItem"; title = "Accept"; ObjectID = "55"; */
+"55.title" = "Accepter";
